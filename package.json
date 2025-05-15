@@ -1,0 +1,30 @@
+{
+  "name": "psxdoc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "production": "vue-cli-service serve --mode production"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@vueuse/head": "^1.1.26",
+    "flowbite": "^1.6.5",
+    "fontawesome": "^5.6.3",
+    "http-server": "^14.1.1",
+    "vue": "^3.2.13",
+    "vue-draggable-resizable": "^3.0.0",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}

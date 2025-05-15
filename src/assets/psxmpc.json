@@ -1,0 +1,1947 @@
+{
+  "title": "PSX MPC Documentation",
+  "link": "",
+  "image": "Mpc Doc Cover",
+  "icon": "Mpc Doc Icon",
+  "alias": "/",
+  "childs": [
+    {
+      "title": "START HERE",
+      "link": "",
+      "alias": "Started Here"
+    },
+    {
+      "title": "1) Getting Started",
+      "link": "",
+      "alias": "Getting Started",
+      "childs": [
+        {
+          "title": "How To ?",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143425/17baa3ec5f657b2",
+          "alias": "How To"
+        },
+        {
+          "title": "Requirement checking",
+          "link": "",
+          "alias": "Requirement Checking",
+          "childs": [
+            {
+              "title": "Server Requirements",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142645/5d96447d1d41c67",
+              "alias": "Server Requirements"
+            },
+            {
+              "title": "Flutter Working Enviroment",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142665/7f9f431d6d1cc99",
+              "alias": "Flutter Working Enviroment"
+            }
+          ]
+        },
+        {
+          "title": "Up and Running",
+          "link": "",
+          "alias": "Up and Running",
+          "childs": [
+            {
+              "title": "Web Setup with 1-Click Installer",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167344/a7c0873df486881",
+              "alias": "Web Setup with 1-Click Installer"
+            },
+            {
+              "title": "Flutter Project Setup",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142625/b80c01f7e21e0c3",
+              "alias": "Flutter Project Setup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2) Setup",
+      "link": "",
+      "alias": "Setup",
+      "childs": [
+        {
+          "title": "Basic Project Setup",
+          "link": "",
+          "alias": "Basic Project Setup",
+          "childs": [
+            {
+              "title": "Change Project Name",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151045/5e6695ecad92715",
+              "alias": "Change Project Name"
+            },
+            {
+              "title": "Change Project Version No",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143505/d5ca2c0f0ea17fe",
+              "alias": "Change Project Version No"
+            },
+            {
+              "title": "SMTP Setup",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144125/efce415ac2316cd",
+              "alias": "SMTP Setup"
+            },
+            {
+              "title": "Change Admin Panel Logo and Icon",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144705/cc4563fc8ae64c3",
+              "alias": "Change Admin Panel Logo and Icon"
+            },
+            {
+              "title": "Setup Firebase",
+              "link": "",
+              "alias": "Setup Firebase",
+              "childs": [
+                {
+                  "title": "Creating a Firebase Project",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-195618/1c6b0ea2f2f4493",
+                  "alias": "Creating a Firebase Project"
+                },
+                {
+                  "title": "Setup Firebase for Web App",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145245/8ff50e53732b196",
+                  "alias": "Setup Firebase for Web App"
+                },
+                {
+                  "title": "Setup Firebase for Android App",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142485/b5bc3f01a21d4c7",
+                  "alias": "Setup Firebase for Android App"
+                },
+                {
+                  "title": "Setup Firebase for iOS App",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143065/7a3cf269b48e3d2",
+                  "alias": "Setup Firebase for iOS App"
+                },
+                {
+                  "title": "Setup Deep Linking ( Firebase - Deprecated )",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144745/63d9da1dcc5c330",
+                  "alias": "Setup Deep Linking ( Firebase - Deprecated )"
+                }
+              ]
+            },
+            {
+              "title": "Setup PSX Dynamic Links",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-212878/53f364d44f78ccc",
+              "alias": "Setup PSX Dynamic Links"
+            }
+          ]
+        },
+        {
+          "title": "Setup ( Mobile )",
+          "link": "",
+          "alias": "Setup Mobile",
+          "childs": [
+            {
+              "title": "Changing Admin Panel Url",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143485/1746090d47f5279",
+              "alias": "Changing Admin Panel Url"
+            },
+            {
+              "title": "Changing Package Name",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142865/7e5563b32a5c221",
+              "alias": "Changing Package Name"
+            },
+            {
+              "title": "Changing Mobile App Color",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-159005/7eb64021ffd92ba",
+              "alias": "Changing Mobile App Color"
+            },
+            {
+              "title": "Changing App Icon",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143825/c01f7a668563a2b",
+              "alias": "Changing App Icon"
+            },
+            {
+              "title": "Update Signing & Capabilities ( iOS Only )",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-195698/6a9582f7660fd47",
+              "alias": "Update Signing & Capabilities iOS Only"
+            },
+            {
+              "title": "Configuring iOS Push Notification( iOS Only )",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143045/14ce9256f2bc668",
+              "alias": "Configuring iOS Push Notification iOS Only"
+            },
+            {
+              "title": "Configuring Apple Login ( iOS Only )",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143005/f4de2118dba290d",
+              "alias": "Configuring Apple Login iOS Only"
+            },
+            {
+              "title": "Getting iOS AppStoreId ( iOS Only )",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142765/1731fa8eff7088c",
+              "alias": "Getting iOS AppStoreId iOS Only"
+            }
+          ]
+        },
+        {
+          "title": "Setup ( Frontend )",
+          "link": "",
+          "alias": "Setup Frontend",
+          "childs": [
+            {
+              "title": "Changing default meta data Meta Data",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142725/a09e1bcb0f462a2",
+              "alias": "Changing default meta data Meta Data"
+            },
+            {
+              "title": "Changing Frontend App Color",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-159025/b11bbc75d4b0d34",
+              "alias": "Changing Frontend App Color"
+            },
+            {
+              "title": "Changing Frontend Logo and Icon",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145265/30dff87f2dc12c8",
+              "alias": "Changing Frontend Logo and Icon"
+            },
+            {
+              "title": "Changing Footer Copyright",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145125/e5ca0867de09cbf",
+              "alias": "Changing Footer Copyright"
+            },
+            {
+              "title": "Footer Links Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145045/4a026bf7aab21e3",
+              "alias": "Footer Links Configuration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3) Configuration",
+      "link": "",
+      "alias": "Configuration",
+      "childs": [
+        {
+          "title": "System Configuration",
+          "link": "",
+          "alias": "System Configuration",
+          "childs": [
+            {
+              "title": "Promote Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144225/4c273b2c7a68851",
+              "alias": "Promote Configuration"
+            },
+            {
+              "title": "Currency Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144665/964e750076f7d31",
+              "alias": "Currency Configuration"
+            },
+            {
+              "title": "Loading Limit Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144205/eec0147829e1c95",
+              "alias": "Loading Limit Configuration"
+            },
+            {
+              "title": "Login Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144185/ee6e63d0994b9d9",
+              "alias": "Login Configuration"
+            },
+            {
+              "title": "Image Size Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144645/cdff338100a03e5",
+              "alias": "Image Size Configuration"
+            },
+            {
+              "title": "Map Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144625/c43c7a98bfb7331",
+              "alias": "Map Configuration"
+            },
+            {
+              "title": "Ad Post Type Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144605/bb32bc620a4daef",
+              "alias": "Ad Post Type Configuration"
+            },
+            {
+              "title": "Item Advance Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-169065/8bfadddf45800e8",
+              "alias": "Item Advance Setting"
+            },
+            {
+              "title": "Google Adsense Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-199818/7042041cff8f06e",
+              "alias": "Google Adsense Configuration"
+            },
+            {
+              "title": "Payments Configuration",
+              "link": "",
+              "alias": "Payments Configuration",
+              "childs": [
+                {
+                  "title": "Stripe Configuration",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142925/55a3daafc1edd60",
+                  "alias": "Stripe Configuration"
+                },
+                {
+                  "title": "Paypal and Braintree Configuration",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143845/56a7c5e10512e2f",
+                  "alias": "Paypal and Braintree Configuration"
+                },
+                {
+                  "title": "Paystack  Configuration",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142945/b9c68a0fe155645",
+                  "alias": "Paystack  Configuration"
+                },
+                {
+                  "title": "Razor Pay Configuration",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144365/15851bade5a2aec",
+                  "alias": "Razor Pay Configuration"
+                },
+                {
+                  "title": "Offline Payment Configuration",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142905/6acf5eaa1a3c1da",
+                  "alias": "Offline Payment Configuration"
+                }
+              ]
+            },
+            {
+              "title": "Sign-In Configuration",
+              "link": "",
+              "alias": "SignIn Configuration",
+              "childs": [
+                {
+                  "title": "Authenticate Using Google Sign-In",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143985/8d57eb67fc8fcf1",
+                  "alias": "Authenticate Using Google SignIn"
+                },
+                {
+                  "title": "Authenticate Using Phone Sign-In",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143945/867c36f2e189b64",
+                  "alias": "Authenticate Using Phone SignIn"
+                },
+                {
+                  "title": "Authenticate Using Facebook Sign-In",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143285/63f0501219bfcd2",
+                  "alias": "Authenticate Using Facebook SignIn"
+                },
+                {
+                  "title": "Authenticate Using Apple Sign-in ( Frontend Only )",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143265/4bb483781021496",
+                  "alias": "Authenticate Using Apple Signin Frontend Only"
+                }
+              ]
+            },
+            {
+              "title": "Other Configuration",
+              "link": "",
+              "alias": "Other Configuration",
+              "childs": [
+                {
+                  "title": "Video Duration Time Set Up",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144285/6edb69098c32f1f",
+                  "alias": "Video Duration Time Set Up"
+                },
+                {
+                  "title": "Owner Info Show or Hide",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144485/78e17ea64314812",
+                  "alias": "Owner Info Show or Hide"
+                },
+                {
+                  "title": "Subcategory Setting Enable/Disable",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144565/14680f671762c7a",
+                  "alias": "Subcategory Setting Enable Disable"
+                },
+                {
+                  "title": "Video Field Enable/Disable Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144265/7ddbf19b22cb7b9",
+                  "alias": "Video Field Enable/Disable Setting"
+                },
+                {
+                  "title": "Filter with location on Map or Not",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144425/3f8121f021e2476",
+                  "alias": "Filter with location on Map or Not"
+                },
+                {
+                  "title": "Phone List Count",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144245/354c9c00539ab47",
+                  "alias": "Phone List Count"
+                },
+                {
+                  "title": "Thumbnail Placeholder Setting for the Mobile",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144445/0f82f0988518f56",
+                  "alias": "Thumbnail Placeholder Setting for the Mobile"
+                },
+                {
+                  "title": "Mile Range for Nearest Items",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144305/093a9ace951d870",
+                  "alias": "Mile Range for Nearest Items"
+                },
+                {
+                  "title": "Item Discount Enable/Disable Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144505/f80b2b3d0639dfc",
+                  "alias": "Item Discount Enable/Disable Setting"
+                },
+                {
+                  "title": "Change the Price Format",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144385/4eb97fd2030b5a7",
+                  "alias": "Change the Price Format"
+                },
+                {
+                  "title": "Maximum Image Upload of Item",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144405/bd13d5876db3b43",
+                  "alias": "Maximum Image Upload of Item"
+                },
+                {
+                  "title": "Item Upload Approval Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144585/3d11dc99a3b4ca9",
+                  "alias": "Item Upload Approval Setting"
+                },
+                {
+                  "title": "Sub Location Enable/Disable Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144325/9e95ed943b2ca0b",
+                  "alias": "Sub Location Enable/Disable Setting"
+                },
+                {
+                  "title": "Thumbnail 2x 3x Enable/Disable Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144345/d36bd6137bfb7eb",
+                  "alias": "Thumbnail 2x 3x Enable/Disable Setting"
+                },
+                {
+                  "title": "Post Quota Package Settings",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144465/73d82c1a6fd6d64",
+                  "alias": "Post Quota Package Settings"
+                },
+                {
+                  "title": "Subcategory Subscription On/Off Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144545/05f937732f9b891",
+                  "alias": "Subcategory Subscription On Off Setting"
+                },
+                {
+                  "title": "Block User Enable/Disable Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144525/8fbe2537ffa5815",
+                  "alias": "Block User Enable Disable Setting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Admin Panel Setting",
+          "link": "",
+          "alias": "Admin Panel Setting",
+          "childs": [
+            {
+              "title": "Image Size Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144725/d7fee38a5750a56",
+              "alias": "Image Size Configuration"
+            },
+            {
+              "title": "Notification Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144685/79d11d2d6b89c1f",
+              "alias": "Notification Configuration"
+            },
+            {
+              "title": "Deep Linking Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144745/63d9da1dcc5c330",
+              "alias": "Deep Linking Configuration"
+            },
+            {
+              "title": "Slow Moving Item Limit Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144105/e9015edc0d788ca",
+              "alias": "Slow Moving Item Limit Configuration"
+            },
+            {
+              "title": "Default Map Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144785/878ceaa4c94a452",
+              "alias": "Default Map Configuration"
+            },
+            {
+              "title": "Water Mark Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144765/a973ca4df6c895b",
+              "alias": "Water Mark Setting"
+            },
+            {
+              "title": "Language Refresh Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144825/220e47e4e6af31e",
+              "alias": "Language Refresh Setting"
+            },
+            {
+              "title": "Other Configuration",
+              "link": "",
+              "alias": "Other Configuration",
+              "childs": [
+                {
+                  "title": "Google Map Key",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144845/9583036c699ebb2",
+                  "alias": "Google Map Key"
+                },
+                {
+                  "title": "Date Format for the Admin Panel",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144885/f1369b87dd0e0a5",
+                  "alias": "Date Format for the Admin Panel"
+                },
+                {
+                  "title": "Add App Token for Facebook Profile Picture",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144905/1f0b5ca9838e78b",
+                  "alias": "Add App Token for Facebook Profile Picture"
+                },
+                {
+                  "title": "User Social Information",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144925/1f53c43125b5fa0",
+                  "alias": "User Social Information"
+                },
+                {
+                  "title": "Admin Panel Version",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144865/260e99e356f888f",
+                  "alias": "Admin Panel Version"
+                },
+                {
+                  "title": "Email Verification Enable",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-158944/a0991286de6c1e3",
+                  "alias": "Email Verification Enable"
+                },
+                {
+                  "title": "Frontend Enable/Disable Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-158964/e4356ff6c4739ee",
+                  "alias": "Frontend Enable/Disable Setting"
+                },
+                {
+                  "title": "Upload Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-158984/6004a6ecd2e11ec",
+                  "alias": "Upload Setting"
+                },
+                {
+                  "title": "Setup your own API Token ( Admin )",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142885/bd2ccd3f258d1c5",
+                  "alias": "Setup your own API Token"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mobile Setting",
+          "link": "",
+          "alias": "Mobile Setting",
+          "childs": [
+            {
+              "title": "Admob Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143745/9ee28c3665b502d",
+              "alias": "Admob Configuration"
+            },
+            {
+              "title": "Play Store and App Store Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143545/871efeb920f69c5",
+              "alias": "Play Store and App Store Configuration"
+            },
+            {
+              "title": "Default Data Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143585/208e313425f393b",
+              "alias": "Default Data Configuration"
+            },
+            {
+              "title": "Blogs Slider Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143725/105682a038d145a",
+              "alias": "Blogs Slider Configuration"
+            },
+            {
+              "title": "Configuring Firebase Chat ( Mobile App )",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143025/8d494983fbc945a",
+              "alias": "Configuring Firebase Chat Mobile App"
+            },
+            {
+              "title": "In-App Purchase Configuration",
+              "link": "",
+              "alias": "In-App Purchase Configuration",
+              "childs": [
+                {
+                  "title": "Configuring In-App Purchase ( Android )",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143805/22ebb4de6ad6bce",
+                  "alias": "Configuring In-App Purchase Android"
+                },
+                {
+                  "title": "Configuring In-App Purchase ( iOS )",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143125/b61edba1daa206c",
+                  "alias": "Configuring In-App Purchase iOS"
+                }
+              ]
+            },
+            {
+              "title": "Map Configuration",
+              "link": "",
+              "alias": "Map Configuration",
+              "childs": [
+                {
+                  "title": "Google Map Enable/Disable Setting for the Mobile",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143605/c05e62e0a22ccb4",
+                  "alias": "Google Map Enable/Disable Setting For The Mobile"
+                },
+                {
+                  "title": "Configuring Google Map Key For Mobile",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-144025/609237de467208c",
+                  "alias": "Configuring Google Map Key For Mobile"
+                }
+              ]
+            },
+
+            {
+              "title": "Other Configuration",
+              "link": "",
+              "alias": "Other Configuration",
+              "childs": [
+                {
+                  "title": "Facebook Key",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143705/761b7863f94b594",
+                  "alias": "Facebook Key"
+                },
+                {
+                  "title": "Change the Date Format for the Mobile",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143645/16a9aade149e399",
+                  "alias": "Change The Date Format For The Mobile"
+                },
+
+                {
+                  "title": "Language Configs for the App Starts Enable/Disable",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143625/5292dbfcd0609a6",
+                  "alias": "Language Configs For The App Starts Enable Disable"
+                },
+                {
+                  "title": "Is Demo For Payment",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143685/57a7f55ce58b173",
+                  "alias": "Is Demo For Payment"
+                },
+                {
+                  "title": "Item Loading Cell Count",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-143665/5e9ce0224428a07",
+                  "alias": "Item Loading CellCount"
+                },
+                {
+                  "title": "Changing Api Token ( Mobile )",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142505/ee7ae6e457b9f5b",
+                  "alias": "Changing Api Token ( Mobile )"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Frontend Setting",
+          "link": "",
+          "alias": "Frontend Setting",
+          "childs": [
+            {
+              "title": "Image Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145265/30dff87f2dc12c8",
+              "alias": "Image Configuration"
+            },
+            {
+              "title": "Firebase Configuration",
+              "link": "",
+              "alias": "Firebase Configuration",
+              "childs": [
+                {
+                  "title": "Firebase Web Push Key ",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145225/065b6e8bcf168a8",
+                  "alias": "Firebase Web Push Key "
+                }
+              ]
+            },
+            {
+              "title": "FE Language Refresh Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145025/79657d51391cec5",
+              "alias": "FE Language Refresh Setting"
+            },
+            {
+              "title": "Other Configuration",
+              "link": "",
+              "alias": "Other Configuration",
+              "childs": [
+                {
+                  "title": "Footer Copyright",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145125/e5ca0867de09cbf",
+                  "alias": "Footer Copyright"
+                },
+                {
+                  "title": "Is Enable Notification?",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145105/5c242e81cdedc12",
+                  "alias": "Is Enable Notification"
+                },
+                {
+                  "title": "E-Mail Hide/Show Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142585/35d625ee0d9f3c2",
+                  "alias": "E-Mail Hide-Show Setting"
+                },
+                {
+                  "title": "Phone Number Hide/Show Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-142605/b5022595b610b26",
+                  "alias": "Phone Number Hide-Show Setting"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Vendor Panel Setting",
+          "link": "",
+          "alias": "Vendor Panel Setting",
+          "childs": [
+            {
+              "title": "Vendor On/Off Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175222/be600340120429c",
+              "alias": "Vendor On/Off Setting"
+            },
+            {
+              "title": "Language Refresh Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175242/5c613e184364a09",
+              "alias": "Language Refresh Setting"
+            },
+            {
+              "title": "Subscription Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-179742/8be0d3082e8aac6",
+              "alias": "Subscription Setting"
+            }
+          ]
+        },
+        {
+          "title": "PSX Builder Setting",
+          "link": "",
+          "alias": "PSX Builder Setting",
+          "childs": [
+            {
+              "title": "Project Reset",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-183858/45ea4b0a987d538",
+              "alias": "Project Reset"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4) Technical Modification",
+      "link": "",
+      "alias": "Technical Modification",
+      "childs": [
+        {
+          "title": "Mobile Project",
+          "link": "",
+          "alias": "Mobile Project",
+          "childs": [
+            {
+              "title": "Project Structure",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149065/0afb13636f6823b",
+              "alias": "Project Structure"
+            },
+            {
+              "title": "UI Modifications",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149185/c9dc0a777ab8b9e",
+              "alias": "UI Modifications"
+            },
+            {
+              "title": "Category List to Grid View in Home Screen",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149165/798e278c14e30d4",
+              "alias": "Category List to Grid View in Home Screen"
+            },
+            {
+              "title": "How to change custom cell",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149145/aab4a1ef66261e9",
+              "alias": "How to change custom cell"
+            },
+            {
+              "title": "How to change the whole custom screen",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149125/6529f9e0bf69510",
+              "alias": "How to change the whole custom screen"
+            },
+            {
+              "title": "How to update widget sections (How to modify)",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149085/443d29410b68441",
+              "alias": "How to update widget sections"
+            },
+            {
+              "title": "How to build your own dashboard (Sample)",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149105/341ee5dbb24f925",
+              "alias": "How to build your own dashboard"
+            }
+          ]
+        },
+        {
+          "title": "Admin Web Project",
+          "link": "",
+          "alias": "Admin Web Project",
+          "childs": [
+            {
+              "title": "Project Structure",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149025/356b6f0a1558520",
+              "alias": "Project Structure"
+            },
+            {
+              "title": "API Structure",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149005/0dcee9de1b20182",
+              "alias": "API Structure"
+            },
+            {
+              "title": "Module Structure (Admin Panel)",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149045/45504de58f56fdd",
+              "alias": "Module Structure Admin Panel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5) Release",
+      "link": "",
+      "alias": "Release",
+      "childs": [
+        {
+          "title": "Release on Google Play Store",
+          "link": "",
+          "alias": "Release on Google Play Store",
+          "childs": [
+            {
+              "title": "Prepare for Release",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145185/f27c67829303d97",
+              "alias": "Prepare For Release"
+            },
+            {
+              "title": "Upload to Google Play",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145165/2ad972718ee74a7",
+              "alias": "Upload To Google Play"
+            }
+          ]
+        },
+        {
+          "title": "Release on Apple App Store",
+          "link": "",
+          "alias": "Release on Apple App Store",
+          "childs": [
+            {
+              "title": "Prepare for Release",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145145/b1d1a89dc330510",
+              "alias": "Prepare For Release"
+            },
+            {
+              "title": "Upload to App Store",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145205/a74b849294d54a2",
+              "alias": "Upload To AppStore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6) Features",
+      "link": "",
+      "alias": "Features",
+      "childs": [
+        {
+          "title": "Promote/Sponsored Ads",
+          "link": "",
+          "alias": "Promote Sponsored Ads",
+          "childs": [
+            {
+              "title": "Introduction of Promote/Sponsored Ads",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157024/0d42251996b9867",
+              "alias": "Introduction of Promote/Sponsored Ads"
+            },
+            {
+              "title": "Promote Item Status",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149885/26f2734487b4365",
+              "alias": "Promote Item Status"
+            },
+            {
+              "title": "5 Types of Sponsored Ad Layout",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149365/92b84223196a194",
+              "alias": "5 Types of Sponsored Ad Layout"
+            },
+            {
+              "title": "Promote Item from the Admin Panel",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149905/4331b673cfa043f",
+              "alias": "Promote Item from the Admin Panel"
+            },
+            {
+              "title": "Approval Action for Offline Payment User",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149705/dd29833c837fff8",
+              "alias": "Approval Actionfor Offline Payment User"
+            },
+            {
+              "title": "Ad Post Type Layouts Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149385/ede38b9f2c84114",
+              "alias": "Ad Post Type Layouts Setting"
+            },
+            {
+              "title": "Offline Payment Admin Panel",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149405/9e9f10cc4e549e9",
+              "alias": "Offline Payment Admin Panel"
+            },
+            {
+              "title": "Payment with Online",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149865/3064cc2c9471662",
+              "alias": "Payment with Online"
+            },
+            {
+              "title": "Payment with In-App-Purchased",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149525/4f72b2840c018c6",
+              "alias": "Payment with In App Purchased"
+            },
+            {
+              "title": "Promote Item from the Mobile",
+              "link": "",
+              "alias": "Promote Item from the Mobile",
+              "childs": [
+                {
+                  "title": "How to Promote item from the Mobile",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157044/8c88dff947f50ff",
+                  "alias": "How to Promote item from the Mobile"
+                },
+                {
+                  "title": "Payment with Paypal",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150005/3b32ca8d5f819a9",
+                  "alias": "Payment with Paypal"
+                },
+                {
+                  "title": "Payment with Stripe",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149925/ec7098c0aeed604",
+                  "alias": "Payment with Stripe"
+                },
+                {
+                  "title": "Payment with Razor",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150025/c84ad9f01d18d0a",
+                  "alias": "Payment with Razor"
+                },
+                {
+                  "title": "Payment with In-App-Purchased",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149965/aeea4728b3d5229",
+                  "alias": "Paymen with In App Purchased"
+                },
+                {
+                  "title": "Payment with Paystack",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149985/c89397852f37736",
+                  "alias": "Payment with Paystack"
+                },
+                {
+                  "title": "Offline Payment",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149945/022f57082be1128",
+                  "alias": "Offline Payment"
+                },
+                {
+                  "title": "Flutter Wave Payment",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-197378/52e5d91d28e5617",
+                  "alias": "Flutter Wave Payment"
+                }
+              ]
+            },
+            {
+              "title": "5 Types of Sponsor Ads Layout from Mobile",
+              "link": "",
+              "alias": "5 Types of Sponsor Ads Layout from Mobile",
+              "childs": [
+                {
+                  "title": "How Ads Layouts are shown in Mobile",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157064/59fedafb3115999",
+                  "alias": "How Ads Layouts are shown in Mobile"
+                },
+                {
+                  "title": "Show the Sponsored Ad(Featured) at the top of the Item List",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149805/28aa09400ed55c4",
+                  "alias": "Show the Sponsored Ad Featured at the top of the Item List"
+                },
+                {
+                  "title": "Bumps Ups the Sponsored Ads(Featured) Between Normal Ads",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149825/91177e841a99e06",
+                  "alias": "Bumps Ups the Sponsored Between Normal Ads"
+                },
+                {
+                  "title": "Sponsored Ads (Featured) and Google Ads Between Normal Ads",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149765/35dfed8afcb1dbe",
+                  "alias": "Sponsored Ads Featured and Google Ads Between Normal Ads"
+                },
+                {
+                  "title": "Google Ad Between Normal Ad",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149745/46cf072ce3731c2",
+                  "alias": "Google Ad Between Normal Ad"
+                },
+                {
+                  "title": "Normal Ads Only",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149785/be2c91188dee8dd",
+                  "alias": "Normal Ads Only"
+                }
+              ]
+            },
+            {
+              "title": "Payment Setting",
+              "link": "",
+              "alias": "PaymentSetting",
+              "childs": [
+                {
+                  "title": "For Paypal",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149565/0aca1d23f23cf88",
+                  "alias": "For Paypal"
+                },
+                {
+                  "title": "For Stripe",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149685/310696b0e14e392",
+                  "alias": "For Stripe"
+                },
+                {
+                  "title": "For Razor",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149645/9c7aecfa866e5f5",
+                  "alias": "For Razor"
+                },
+                {
+                  "title": "For Paystack",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149585/c7c2d5fbc4434c2",
+                  "alias": "For Paystack"
+                },
+                {
+                  "title": "For In-App Purchased",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149605/1b09b62f82555a5",
+                  "alias": "For In App Purchased"
+                },
+                {
+                  "title": "For Offline Payment",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149665/507a34914ec2878",
+                  "alias": "For Offline Payment"
+                },
+                {
+                  "title": "For Currency Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149625/e59c1bd66a1383b",
+                  "alias": "For Currency Setting"
+                },
+                {
+                  "title": "For Flutter Wave",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-197398/e48ad19b6c88b13",
+                  "alias": "For Flutter Wave"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subcategory Subscription",
+          "link": "",
+          "alias": "Subcategory Subscription",
+          "childs": [
+            {
+              "title": "Introduction of Subcategory Subscription",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157104/a29d1054461edef",
+              "alias": "Introduction of Subcategory Subscription"
+            },
+            {
+              "title": "Admin Panel Functions",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149305/912058fcb223773",
+              "alias": "Admin Panel Functions"
+            },
+            {
+              "title": "Mobile Functions",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149345/efcb56226bbd36e",
+              "alias": "Mobile Functions"
+            },
+            {
+              "title": "Notification Settings",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149325/81dd28d6860f9e1",
+              "alias": "Notification Settings"
+            }
+          ]
+        },
+        {
+          "title": "Item Upload Approval",
+          "link": "",
+          "alias": "Item Upload Approval",
+          "childs": [
+            {
+              "title": "Introduction of Item Upload Approval",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157344/ad00f8f26765256",
+              "alias": "Introduction of Item Upload Approval"
+            },
+            {
+              "title": "Item Upload Status",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149485/a57d145912bb23a",
+              "alias": "Item Upload Status"
+            },
+            {
+              "title": "Item Upload Approval on/off setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149425/ba055f4caa3b730",
+              "alias": "Item UploadApproval on off setting"
+            },
+            {
+              "title": "Item Upload Approval",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149445/04a4c3dafff6197",
+              "alias": "Item Upload Approval"
+            },
+            {
+              "title": "Auto Approved Item",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149465/64597b7862001c8",
+              "alias": "Auto Approved Item"
+            },
+            {
+              "title": "Notification Alert On/Off Setting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149505/b24d73c129790dc",
+              "alias": "Notification Alert On Off Setting"
+            }
+          ]
+        },
+        {
+          "title": "Package Ads",
+          "link": "",
+          "alias": "Package Ads",
+          "childs": [
+            {
+              "title": "Introduction of Package Ads",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157364/ee5702bad8af77d",
+              "alias": "Introduction of Package Ads"
+            },
+            {
+              "title": "Admin Panel Functions",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150085/412e620829d385e",
+              "alias": "Admin Panel Functions"
+            },
+            {
+              "title": "Mobile Functions",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150105/35d3cc1b1d5e7b3",
+              "alias": "Mobile Functions"
+            }
+          ]
+        },
+        {
+          "title": "CSV Import preparation",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-149285/34d13e7c711e571",
+          "alias": "CSV Import preparation"
+        },
+        {
+          "title": "Realtime Chatting",
+          "link": "",
+          "alias": "Realtime Chatting",
+          "childs": [
+            {
+              "title": "Introduction of Realtime Chatting",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157284/459f3d9bbb98ed2",
+              "alias": "Introduction of Realtime Chatting"
+            },
+            {
+              "title": "Offer Status",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150265/4d1a1534eae8d99",
+              "alias": "Offer Status"
+            },
+            {
+              "title": "Chatting Lists and Status",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150205/58b7ecbe902e38f",
+              "alias": "Chatting Lists and Status"
+            },
+            {
+              "title": "Make Offer from buyer user",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150185/0538cf865563624",
+              "alias": "Make Offer from buyer user"
+            },
+            {
+              "title": "Reject Offer",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150165/eeeebed3b88db7d",
+              "alias": "Reject Offer"
+            },
+            {
+              "title": "Accept Offer",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150245/bf63521b682fd25",
+              "alias": "AcceptOffer"
+            },
+            {
+              "title": "User Bought",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150305/65eae92d8678f27",
+              "alias": "User Bought"
+            },
+            {
+              "title": "Chat List with Conversation",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150225/fd2598539edd3cf",
+              "alias": "Chat List with Conversation"
+            },
+            {
+              "title": "Status of User",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150285/f42687ab45ade28",
+              "alias": "Status of User"
+            }
+          ]
+        },
+        {
+          "title": "Privacy and Security",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150045/64488f980db17a7",
+          "alias": "Privacy and Security"
+        },
+        {
+          "title": "Verify Blue Mark Users",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-156804/de52bb8fc5c7aa1",
+          "alias": "Verify Blue Mark Users"
+        },
+        {
+          "title": "Slow Moving Items",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-156824/b314f2097d7985e",
+          "alias": "Slow Moving Items"
+        },
+        {
+          "title": "Item Multiple Image Upload",
+          "link": "",
+          "alias": "Item Multiple Image Upload",
+          "childs": [
+            {
+              "title": "Introduction of Item Multiple Image Upload",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157424/29cd0394ecc1a57",
+              "alias": "Introduction of Item Multiple Image Upload"
+            },
+            {
+              "title": "Admin Panel Functions",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-156864/9239f3d0a6acc5f",
+              "alias": "Admin Panel Functions"
+            },
+            {
+              "title": "Mobile Functions",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-156884/d227db2818d32d4",
+              "alias": "Mobile Functions"
+            }
+          ]
+        },
+        {
+          "title": "Home Sliders",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-156904/9999df6401bb636",
+          "alias": "Home Sliders"
+        },
+        {
+          "title": "Rating Review",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150125/7298ab769350f64",
+          "alias": "Rating Review"
+        },
+        {
+          "title": "Category Based Custom Fields",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-170907/620f224bca19e3c",
+          "alias": "Category Based Custom Fields"
+        },
+        {
+          "title": "Vendor Feature",
+          "link": "",
+          "alias": "Vendor Feature",
+          "childs": [
+            {
+              "title": "Introduction of Vendor Feature",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175662/9375a4e06234d40",
+              "alias": "Introduction of Vendor Feature"
+            },
+            {
+              "title": "Creating Vendor by Free",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-179802/b32e2a570ab8279",
+              "alias": "Creating Vendor by Free"
+            },
+            {
+              "title": "Creating Vendor by Subscription Plans",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-179822/5cb3157d40e2611",
+              "alias": "Creating Vendor by Subscription Plans"
+            },
+            {
+              "title": "Vendor Approval",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175262/8e8a7a716cbec48",
+              "alias": "Vendor Approval"
+            },
+            {
+              "title": "Subscription Plan Expiry",
+              "link": "",
+              "alias": "Subscription Plan Expiry",
+              "childs": [
+                {
+                  "title": "When subscription plan is nearly expired",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-179862/e784bde66cd6ab7",
+                  "alias": "When subscription plan is nearly expired"
+                },
+                {
+                  "title": "When subscription is expired",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-179902/36daeca66170cad",
+                  "alias": "When subscription is expired"
+                },
+                {
+                  "title": "Subscription Plan Renewals",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-179922/0508d74c4daca9d",
+                  "alias": "Subscription Plan Renewals"
+                }
+              ]
+            },
+            {
+              "title": "Store necessary payment keys in each vendor",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-181538/c5f5f0954b7b740",
+              "alias": "Store necessary payment keys in each vendor"
+            },
+            {
+              "title": "Single Item Checkout",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-181558/2cecac3e2c86ccb",
+              "alias": "Single Item Checkout"
+            },
+            {
+              "title": "Basket Checkout",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-183738/accdc3851de13a1",
+              "alias": "Basket Checkout"
+            },
+            {
+              "title": "Delivery Setting",
+              "link": "",
+              "alias": "Delivery Setting",
+              "childs": [
+                {
+                  "title": "Delivery Charges Setting",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-183778/ed5ef66576a7ef6",
+                  "alias": "Delivery Charges Setting"
+                }
+              ]
+            },
+            {
+              "title": "Harnessing Delivery Info Address when Checkout",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-183818/d2208b1ed66ebb7",
+              "alias": "Harnessing Delivery Info Address when Checkout"
+            },
+            {
+              "title": "Vendor Currency",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-183838/48f7fde2de85ce6",
+              "alias": "Vendor Currency"
+            },
+            {
+              "title": "Order History",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-195658/4749bd1ec95cbc7",
+              "alias": "Order History"
+            }
+          ]
+        },
+        {
+          "title": "Generating XML Sitemaps",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-184218/26155b6a914d73e",
+          "alias": "Generating XML Sitemaps"
+        },
+        {
+          "title": "Multi Languages Support",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-195398/3a6b94c720c8450",
+          "alias": "Multi Languages Support"
+        },
+        {
+          "title": "How to Hide / Show your Frontend Dashboard of the component",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-197358/a7a956a4494ad0d",
+          "alias": "How to Hide / Show your Frontend Dashboard of the component"
+        },
+        {
+          "title": "Flutter Wave Payment at Frontend",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-197418/287b96d14658812",
+          "alias": "Flutter Wave Payment at Frontend"
+        },
+        {
+          "title": "How to Hide / Show your Mobile Dashboard of the component",
+          "link": "https://doc.clickup.com/24312566/p/h/q5yqp-199098/c3740636f0ef1cc",
+          "alias": "How to Hide / Show your Mobile Dashboard of the component"
+        }
+      ]
+    },
+    {
+      "title": "7) FAQs",
+      "link": "",
+      "alias": "FAQS",
+      "childs": [
+        {
+          "title": "Mobile",
+          "link": "",
+          "alias": "Mobile",
+          "childs": [
+            {
+              "title": "How to clean Flutter Project?",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145545/b1d7881c61de771",
+              "alias": "How to clean Flutter Project"
+            },
+            {
+              "title": "Which SDKs are using?",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145565/4ebed6148e8fae3",
+              "alias": "Which SDKs are using"
+            },
+            {
+              "title": "Quick fix for Play Integrity Setup",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145525/fc4ea233ccac7a6",
+              "alias": "Quick fix for Play Integrity Setup"
+            },
+            {
+              "title": "How to reset password in mobile",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-184098/2ba275823c27265",
+              "alias": "How to reset password in mobile"
+            },
+            {
+              "title": "How to do version update for mobile app?",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-196958/e5b7ddbce61b748",
+              "alias": "How to do version update for mobile app"
+            },
+            {
+              "title": "How to edit the new language string and update in mobile project ?",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-197018/61dbbb5076ffe5f",
+              "alias": "How to edit the new language string and update in mobile project ?"
+            },
+            {
+              "title": "CardinalMobile & PPRiskMagnes Validation Failed",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-211598/ec06c3ef0c30a4e",
+              "alias": "CardinalMobile & PPRiskMagnes Validation Failed"
+            },            
+            {
+              "title": "Google Reject Tips",
+              "link": "",
+              "alias": "Google Reject Tips",
+              "childs": [
+                {
+                  "title": "Need Login Credentials for App Review",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-146005/f8c84d8783ebae5",
+                  "alias": "Need Login Credentials ForApp Review"
+                },
+                {
+                  "title": "Precise Location (Invalid Data Safety Form)",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145905/7fa2ac5813cf2ce",
+                  "alias": "Location Data Type"
+                },
+                {
+                  "title": "Device Or Other IDs (Invalid Data Safety Form)",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145965/5a328dfc5413761",
+                  "alias": "Device Or Other IDs Data Type"
+                },
+                {
+                  "title": "Invalid/Missing Data Safety Form",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145885/56402744f9362e1",
+                  "alias": "Invalid/Missing Data Safety Form"
+                },
+                {
+                  "title": "Report/Block User Issue",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145845/8d917b515a4046f",
+                  "alias": "Report/Block User Issue"
+                },
+                {
+                  "title": "Developer Name Issue",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145925/d9a962171419b10",
+                  "alias": "Developer Name Issue"
+                },
+                {
+                  "title": "Ads Issue",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145865/12af7cefd69ee1d",
+                  "alias": "Ads Issue"
+                },
+                {
+                  "title": "Sensitive Permissions and APIs",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145945/d840357a0aca2b0",
+                  "alias": "Sensitive Permissions And APIs"
+                },
+                {
+                  "title": "Data Safety Updates required",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145985/1df2ff81e18b5ea",
+                  "alias": "Data Safety Updates required"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Web",
+          "link": "",
+          "alias": "Web",
+          "childs": [
+            {
+              "title": "Memory Size Exhausted Error while importing custom fields",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145785/2c4d360efa3bc32",
+              "alias": "Memory Size Exhausted Error While importing custom fields"
+            },
+            {
+              "title": "DataType Issue In Some Server",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145765/18ce9e40f34c96b",
+              "alias": "Data Type Issue In Some Server"
+            },
+            {
+              "title": "Admin panel activate issue",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145585/ff6f4132d1fdd30",
+              "alias": "Admin panel activate issue"
+            },
+            {
+              "title": "How can do when 419 error got",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145825/7576a37f0f4f35b",
+              "alias": "How Can Do When 419 Error Got"
+            },
+            {
+              "title": "Permission Denied errors while build",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-145805/08fc3e62bc35c63",
+              "alias": "Permission Denied Errors While Build"
+            },
+            {
+              "title": "How to solve connectivity error with PSX Builder",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167604/bb3ee596eaee606",
+              "alias": "How to solve connectivity error with PSX Builder"
+            },
+            {
+              "title": "The command backup run does not exist",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-168805/e6f282a220fd4f6",
+              "alias": "The command backup run does not exist"
+            },
+            {
+              "title": "How To Change PHP Path",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-168944/b9ec82b22b03b5b",
+              "alias": "How To Change PHP Path"
+            },
+            {
+              "title": "utf8mb4_0900_ai_ci error when importing sample data sql file",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-171327/a646949f4cd0984",
+              "alias": "utf8mb4_0900_ai_ci error when importing sample data sql file"
+            },
+            {
+              "title": "To Fix Hostname match not found issue when editing phone number at FE",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-184938/0864e17d50b0f52",
+              "alias": "To Fix Hostname match not found issue when editing phone number at FE"
+            },
+            {
+              "title": "Troubleshooting Database Issue",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-195278/bad0f7a9daf6af5",
+              "alias": "Troubleshooting Database Issue"
+            },
+            {
+              "title": "How to Existing Project Migration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167484/097c198fd1f3b80",
+              "alias": "How to Existing Project Migration"
+            },
+            {
+              "title": "Running Application in Localhost",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-171927/275fea938ede4c6",
+              "alias": "Running Application in Localhost"
+            },
+            {
+              "title": "Tips for Gmail SMTP Configuration",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-196358/509b3faf18b63da",
+              "alias": "Tips for Gmail SMTP Configuration"
+            },
+            {
+              "title": "How to fix 404 issue when you call your domain at browser",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-196938/abe5a5f00438778",
+              "alias": "How to fix 404 issue when you call your domain at browser"
+            },
+            {
+              "title": "Missing Composer Package that Require For This Project",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-197178/74efc94527bb135",
+              "alias": "Missing Composer Package that Require For This Project"
+            },
+            {
+              "title": "How to migrate from legacy FCM APIs to HTTP v1",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-199038/b283d1c051b8362",
+              "alias": "How to migrate from legacy FCM APIs to HTTP v1"
+            },
+            {
+              "title": "Proc_open has been disabled. PSX On-click Installer can't update composer.",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-199398/f4e273dc8f61f70",
+              "alias": "How to manually update composer"
+            },
+            {
+              "title": "How to manually update composer in Local Environment",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-199458/0971859e7fae6bb",
+              "alias": "How to manually update composer in Local Environment"
+            },
+            {
+              "title": "To Solve CURL Issue",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-199658/59ab02f49c3bec2",
+              "alias": "To Solve CURL Issue"
+            },
+            {
+              "title": "How to migrate from Firebase Deeplink to PSX Dynamic Link",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-212898/ef5f8225ce93f29",
+              "alias": "How to migrate from Firebase Deeplink to PSX Dynamic Link"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8) Manual",
+      "link": "",
+      "alias": "Manual",
+      "childs": [
+        {
+          "title": "Mobile Manual",
+          "link": "",
+          "alias": "Mobile Manual",
+          "childs": [
+            {
+              "title": "Login Options",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150565/27829d4f1597e46",
+              "alias": "Login Options"
+            },
+            {
+              "title": "Payment Options",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150585/7f45781e82bc409",
+              "alias": "Payment Options"
+            },
+            {
+              "title": "User Profile",
+              "link": "",
+              "alias": "User Profile",
+              "childs": [
+                {
+                  "title": "How to show/hide phone numbers and email",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150645/3fa62164704ff1f",
+                  "alias": "How To Show/hide phone numbers And Email"
+                }
+              ]
+            },
+            {
+              "title": "Login or Register",
+              "link": "",
+              "alias": "Login Or Register",
+              "childs": [
+                {
+                  "title": "How to change the default country code when login with phone number",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150665/01d3a8b31f47724",
+                  "alias": "How to change the default country code when login with phone number"
+                }
+              ]
+            },
+            {
+              "title": "Item Upload",
+              "link": "",
+              "alias": "Item Upload",
+              "childs": [
+                {
+                  "title": "How can shift/drag item image",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151445/c3adbcc76071e86",
+                  "alias": "How Can Shift/Drag Item Image"
+                }
+              ]
+            },
+            {
+              "title": "How does it work for feature items?",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151325/5f26d01846bbb2f",
+              "alias": "How Does It Work For Feature Items"
+            },
+            {
+              "title": "Sorting with asc for Location and Category",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151465/3168a014f258ab8",
+              "alias": "Sorting With Asc For Location And Category"
+            },
+            {
+              "title": "Item Entry Custom Fields",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151505/6edaf2aa4816e8c",
+              "alias": "Item Entry Custom Fields"
+            },
+            {
+              "title": "How to change language strings for item entry",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151405/ed5314f2c72eed1",
+              "alias": "How to change language strings for item entry"
+            },
+            {
+              "title": "How to change app name",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151485/f276057f5e10856",
+              "alias": "How to change app name"
+            }
+          ]
+        },
+        {
+          "title": "Web Manual",
+          "link": "",
+          "alias": "Web Manual",
+          "childs": [
+            {
+              "title": "Payment Currency Setting",
+              "link": "",
+              "alias": "Payment Currency Setting",
+              "childs": [
+                {
+                  "title": "Payment Setting Disabled at demo admin panel",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151365/47a7bb8c924899f",
+                  "alias": "Payment Setting Disabled at demo admin panel"
+                },
+                {
+                  "title": "How to Change Default Payment Currency",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151385/eb125e17e2bbabe",
+                  "alias": "How to Change Default Payment Currency"
+                }
+              ]
+            },
+            {
+              "title": "Miscellaneous",
+              "link": "",
+              "alias": "Miscellaneous",
+              "childs": [
+                {
+                  "title": "Where to edit landing page content?",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150705/0c6b9f7df9c3856",
+                  "alias": "Where to edit landing page content"
+                },
+                {
+                  "title": "How to delete dummy data?",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150685/4c5a7ac3fcf2d09",
+                  "alias": "How to delete dummy data"
+                },
+                {
+                  "title": "Admin Panel Language",
+                  "link": "",
+                  "alias": "Admin Panel Language",
+                  "childs": [
+                    {
+                      "title": "Email Content Update",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151005/d0964f943adcf1d",
+                      "alias": "Email Content Update"
+                    },
+                    {
+                      "title": "How to change language for admin panel",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150925/cdcdacb7f0a3a33",
+                      "alias": "How to change language for admin panel"
+                    },
+                    {
+                      "title": "How to change site name",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151045/5e6695ecad92715",
+                      "alias": "How to change site name"
+                    },
+                    {
+                      "title": "How to change language string",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151025/d8f2c0dfe08bd16",
+                      "alias": "How to change language string"
+                    },
+                    {
+                      "title": "How to Add new Language for Admin Panel",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157910/32ba6218b3f46d4",
+                      "alias": "How to Add new Language for Admin Panel"
+                    },
+                    {
+                      "title": "How to update Admin Panel Language Strings by CSV Import",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157930/2b1a21383dec980",
+                      "alias": "How to update Admin Panel Language Strings by CSV Import"
+                    }
+                  ]
+                },
+                {
+                  "title": "Mobile Language",
+                  "link": "",
+                  "alias": "Mobile Language",
+                  "childs": [
+                    {
+                      "title": "How to change mobile default language",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150845/44c190c0d59d22f",
+                      "alias": "How to change mobile default language"
+                    },
+                    {
+                      "title": "How to Add New Language for Mobile",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150825/4c4d7d2548d6762",
+                      "alias": "How to Add New Language for Mobile"
+                    },
+                    {
+                      "title": "How to change mobile language string",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150865/119bae6c5581883",
+                      "alias": "How to change mobile language string"
+                    }
+                  ]
+                },
+                {
+                  "title": "Frontend Language",
+                  "link": "",
+                  "alias": "Frontend Language",
+                  "childs": [
+                    {
+                      "title": "How to change language for Frontend",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157790/4f8cd6e06031801",
+                      "alias": "How to change language for Frontend"
+                    },
+                    {
+                      "title": "How to change frontend language strings",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157810/5efd0c50d6eec37",
+                      "alias": "How to change frontend language strings"
+                    },
+                    {
+                      "title": "How to add or change missing language strings",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157830/0b3e4557e56803e",
+                      "alias": "How to add or change missing language strings"
+                    },
+                    {
+                      "title": "How to Add new Language for Frontend",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157850/033a9021a88b4ae",
+                      "alias": "How to Add new Language for Frontend"
+                    },
+                    {
+                      "title": "How to update Frontend Language Strings by CSV Import",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-157970/bdfe8097c44c05f",
+                      "alias": "How to update Frontend Language Strings by CSV Import"
+                    }
+                  ]
+                },
+                {
+                  "title": "Vendor Panel Language",
+                  "link": "",
+                  "alias": "Vendor Panel Language",
+                  "childs": [
+                    {
+                      "title": "How to add new language for Vendor Panel",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175422/db2e7f4fe18b378/q5yqp-175442",
+                      "alias": "How to add new language for Vendor Panel"
+                    },
+                    {
+                      "title": "How to change Language for Vendor Panel",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175422/db2e7f4fe18b378/q5yqp-175462",
+                      "alias": "How to change Language for Vendor Panel"
+                    },
+                    {
+                      "title": "How to change Language String for Vendor Panel",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175422/db2e7f4fe18b378/q5yqp-175482",
+                      "alias": "How to change Language String for Vendor Panel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Configuration",
+              "link": "",
+              "alias": "Configuration",
+              "childs": [
+                {
+                  "title": "System Configuration",
+                  "link": "",
+                  "alias": "System Configuration",
+                  "childs": [
+                    {
+                      "title": "How to Update Google Map Key in Admin Panel",
+                      "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150885/6eef6a555e3a82e",
+                      "alias": "How to Update Google Map Key in Admin Panel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Report",
+              "link": "",
+              "alias": "Report",
+              "childs": [
+                {
+                  "title": "Complaint Item Reports",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150905/618d58067c6de7b",
+                  "alias": "Complaint Item Reports"
+                },
+                {
+                  "title": "What is the Successful Deal Report for?",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150945/cb55192898ada0b",
+                  "alias": "What is the Successful Deal Report for"
+                }
+              ]
+            },
+            {
+              "title": "Menu",
+              "link": "",
+              "alias": "Menu",
+              "childs": [
+                {
+                  "title": "How to change Sub-menu Name in Admin Panel",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150985/0cbfafd03e81bf4",
+                  "alias": "How to change Sub-menu Name in Admin Panel"
+                },
+                {
+                  "title": "How to change Menu Name in Admin Panel",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150965/c633b80895050fb",
+                  "alias": "How to change Menu Name in Admin Panel"
+                }
+              ]
+            },
+            {
+              "title": "How to manage Filter Option in Admin Panel",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151125/683b5b5f612903b",
+              "alias": "How to manage Filter Option in Admin Panel"
+            },
+            {
+              "title": "How to modify Item Currency from Admin Panel",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151105/073cd529fbf7946",
+              "alias": "How to modify Item Currency from Admin Panel"
+            },
+            {
+              "title": "Item",
+              "link": "",
+              "alias": "Item",
+              "childs": [
+                {
+                  "title": "Duplicate Item",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151085/5b04d969c9055f4",
+                  "alias": "Duplicate Item"
+                }
+              ]
+            },
+            {
+              "title": "Table",
+              "link": "",
+              "alias": "Table",
+              "childs": [
+                {
+                  "title": "Sorting of fields dynamically working in entries",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151285/fd964faea5598f3",
+                  "alias": "Sorting of fields dynamically working in entries"
+                },
+                {
+                  "title": "Fields hide/show dynamically working",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151265/eef13d91c2f71fc",
+                  "alias": "Fields hide/show dynamically working"
+                },
+                {
+                  "title": "Adding New Custom fields feature",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151185/8db40017264e908",
+                  "alias": "Adding New Custom fields feature"
+                },
+                {
+                  "title": "Fields (both custom and core fields) mandatory / optional dynamically working",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151205/41dae4cedb9d9ba",
+                  "alias": "Fields Both Custom And Core Fields Mandatory/Optional Dynamically Working"
+                },
+                {
+                  "title": "Ordering of fields in table working in entries",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151305/237156dfad18f4d",
+                  "alias": "Ordering of fields in table working in entries"
+                },
+                {
+                  "title": "How to data entry at custom fields?",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151225/4bac1caac39be2d",
+                  "alias": "How to data entry at custom fields"
+                },
+                {
+                  "title": "VNext Change Fields Sorting, Hide/Show, Mandatory/Optional and Ordering Automatically",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167564/a7dd36da3cc68ec",
+                  "alias": "VNext Change Fields Sorting, Hide/Show, Mandatory/Optional and Ordering Automatically"
+                },
+                {
+                  "title": "VNext Adding New Custom fields automatically",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167584/07e0e3cd6a451b9",
+                  "alias": "VNext Adding New Custom fields automatically"
+                }
+              ]
+            },
+            {
+              "title": "User Management",
+              "link": "",
+              "alias": "User Management",
+              "childs": [
+                {
+                  "title": "How can control user role and permission",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-151245/e735441f71b94b8",
+                  "alias": "How can control user role and permission"
+                }
+              ]
+            },
+            {
+              "title": "API Token Deleted or Updated",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167504/7bcbe4adbbbc4a7",
+              "alias": "API Token Deleted or Updated"
+            },
+            {
+              "title": "Domain name or folder change",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-167524/d393e94cb23cfba",
+              "alias": "Domain name or folder change"
+            },
+            {
+              "title": "Vendor Menu",
+              "link": "",
+              "alias": "Vendor Menu",
+              "childs": [
+                {
+                  "title": "How to change Menu Name for Vendor Panel",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175362/b52e5d12c21c969",
+                  "alias": "How to change Menu Name for Vendor Panel"
+                },
+                {
+                  "title": "How to change Sub Menu Name for Vendor Panel",
+                  "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175382/36960caecda1d71",
+                  "alias": "How to change Sub Menu Name for Vendor Panel"
+                }
+              ]
+            },
+            {
+              "title": "Vendor Role and Permssion",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-175402/8357dbbfebee94a",
+              "alias": "Vendor Role and Permssion"
+            },
+            {
+              "title": "Login Flow Update",
+              "link": "https://doc.clickup.com/24312566/p/h/q5yqp-150505/64057e9d843cbe8",
+              "alias": "Login Flow Update"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
