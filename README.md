@@ -1,4 +1,9 @@
-# psxdoc
+# PSX MPC Doc
+
+## Product and Document Link
+
+✅ [PSX Multipurpose Classified Platform](https://codecanyon.net/item/psx-multipurpose-classified-app-with-laravel-admin-panel/43708916)  
+✅ [Documentation Link](https://www.docs.panacea-soft.com/psx-mpc/)
 
 ## Project setup
 ```
